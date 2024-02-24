@@ -1,5 +1,5 @@
 ---
-- hosts: target_host
+- hosts: target_hosts
   become: yes
   roles:
 #    - user_config
